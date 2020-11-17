@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ykq</groupId>
-    <artifactId>spring_cloud_user_service</artifactId>
+    <artifactId>spring-cloud-user-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring_cloud_user_service</name>
+    <name>spring-cloud-user-service</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
